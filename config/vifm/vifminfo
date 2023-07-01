@@ -1,0 +1,539 @@
+# You can edit this file by hand, but it's recommended not to do that.
+
+# Marks:
+
+# Bookmarks:
+
+# TUI:
+al
+q0
+v2
+ov
+m-1
+l2
+r2
+
+# Left window history (oldest to newest):
+d/home/pi/.config
+	vifm
+16
+d/home/pi/.config/vifm
+	colors
+0
+d/home/pi/.config/vifm/colors
+	nord.vifm
+1
+d/home/pi/sandbox
+	texPractice
+0
+d/home/pi/.config/nvim
+	autoload
+0
+d/home/pi
+	.config
+3
+d/home/pi/Documents
+	GreekSubtitleMovies
+1
+d/home/pi/Documents/GreekSubtitleMovies
+	Harry Potter And The Prisoner of Azkaban
+0
+d/home/pi/Documents
+	UnixReadings
+4
+d/home/pi/Documents/UnixReadings
+	The UNIX programming environment by Brian W. Kernighan, Rob Pike (z-lib.org).djvu
+0
+d/home/pi/Documents
+	acct
+5
+d/home/pi/Documents/acct
+	Disclosures-Joint | Marcus by Goldman Sachs®.pdf
+0
+d/home/pi/Documents
+	acct
+5
+d/home/pi
+	Documents
+15
+d/home
+	pi
+0
+d/
+	home
+6
+d/home
+	pi
+0
+d/home/pi
+	sandbox
+13
+d/home/pi/sandbox
+	texPractice
+0
+d/home/pi
+	texmf
+16
+d/home/pi/.config
+	vifm
+16
+d/home/pi/.config/vifm
+	vifmrc
+5
+d/home/pi/.config
+	vifm
+16
+d/home/pi/sandbox
+	texPractice
+0
+d/home/pi/.config
+	zathura
+16
+d/home/pi/.config/zathura
+	..
+0
+d/home/pi/sandbox
+	vimlatex-config
+1
+d/home/pi/sandbox/vimlatex-config
+	vim-latex-quickstart
+0
+d/home/pi/sandbox/vimlatex-config/vim-latex-quickstart
+	nvim
+0
+d/home/pi/sandbox/vimlatex-config
+	vim-latex-quickstart
+0
+d/home/pi/.config/nvim
+	ftdetect
+1
+d/home/pi/.config/nvim/ftdetect
+	vim.vim
+0
+d/home/pi/.config
+	vifm
+14
+d/home/pi/.config/vifm
+	colors
+0
+d/home/pi/.config/vifm/colors
+	nord.vifm
+1
+d/home/pi/.config/nvim
+	UltiSnips
+0
+d/home/pi/.config/nvim/UltiSnips
+	all.snippets
+0
+d/home/pi/.config/nvim
+	plugged
+4
+d/home/pi/.config/nvim/plugged
+	vim-plug
+2
+d/home/pi/.config/nvim/plugged/vim-plug
+	doc
+0
+d/home/pi/.config/nvim/plugged
+	vim-plug
+2
+d/home/pi/.config/nvim
+	plugged
+4
+d/home/pi/.config
+	nvim
+9
+d/home/pi
+	sandbox
+13
+d/home/pi/sandbox
+	snipprac.tex
+4
+d/home/pi/.config
+	nvim
+6
+d/home/pi/.config/nvim
+	ftplugin
+3
+d/home/pi/.config/nvim/ftplugin
+	tex.vim
+0
+d/home/pi/.config/nvim
+	ftplugin
+3
+d/home/pi/.config
+	nvim
+18
+d/home/pi
+	Desktop
+0
+d/home
+	pi
+0
+d/home/pi
+	.config
+3
+d/home/pi/.config
+	nvim
+18
+d/home/pi/.config/nvim
+	ftplugin
+3
+d/home/pi/.config/nvim/ftplugin
+	tex.vim
+0
+d/home/pi/.config/nvim
+	ftplugin
+3
+d/home/pi/.config/nvim/ftplugin
+	tex.vim
+0
+d/home/pi/.config/nvim
+	ftplugin
+3
+d/home/pi/.config
+	zathura
+13
+d/home/pi/.config/zathura
+	zathurarc
+0
+d/home/pi/.config
+	zathura
+13
+d/home/pi/.config/zathura
+	zathurarc
+0
+d/home/pi/.config
+	zathura
+13
+d/home/pi
+	.config
+3
+d/home/pi/.config
+	vifm
+11
+d/home/pi/.config/vifm
+	vifmrc
+6
+d/home/pi/sandbox
+	regexprac
+1
+d/home/pi/sandbox/regexprac
+	tryregex.txt
+1
+d/home/pi/sandbox
+	texPractice
+2
+d/home/pi/sandbox/texPractice
+	try2.log
+17
+d/home/pi/.config/nvim
+	init.vim
+5
+d/home/pi/.config
+	nvim
+6
+d/home/pi
+	Downloads
+16
+d/home/pi/Downloads
+	STAR.jpg
+16
+d/home/pi
+	Downloads
+16
+d/home/pi/Downloads
+	28443_409912199755_3623103_n.jpg
+18
+d/home/pi
+	Downloads
+16
+d/home
+	pi
+0
+d/
+	etc
+5
+d/etc
+	NetworkManager
+2
+d/etc/NetworkManager
+	system-connections
+4
+d/etc/NetworkManager/system-connections
+	FiOS-5S0Z9-5G.nmconnection
+0
+d/home/pi/.config
+	gnome-control-center
+4
+d/home/pi
+	.atom
+0
+d/home/pi/.atom
+	.apm
+0
+d/home/pi
+	.atom
+0
+d/home
+	pi
+0
+d/home/pi
+	.config
+3
+d/home/pi/.config
+	user-dirs.locale
+27
+d/home/pi
+	.config
+3
+d/home
+	pi
+0
+d/home/pi
+	.vim
+11
+d/home/pi/.vim
+	UltiSnips
+0
+d/home/pi/.vim/UltiSnips
+	tex.snippets
+0
+d/home/pi/.vim
+	plugged
+2
+d/home/pi/.vim/plugged
+	vimtex
+1
+d/home/pi/.vim
+	plugged
+2
+d/home/pi
+	.config
+3
+d/home/pi/.config
+	google-chrome
+13
+d
+
+# Right window history (oldest to newest):
+D/home/pi/.config/vifm/personal
+	navigation.vifm
+0
+D/home/pi/.config/vifm
+	vifmrc
+5
+D/home/pi/Downloads
+	archlinux-2023.05.03-x86_64.iso
+46
+D/home
+	pi
+0
+D/
+	etc
+5
+D/etc
+	systemd
+37
+D/etc/systemd
+	system
+1
+D/etc/systemd/system
+	snap-vlc-2344.mount
+35
+D/home/pi/.config
+	Atom
+0
+D/home/pi/sandbox/vimlatex-config/vim-latex-quickstart/nvim/UltiSnips/tex
+	delimiters.snippets
+0
+D/home/pi/sandbox/dotfiles
+	vim
+2
+D/home/pi/sandbox/dotfiles/vim
+	UltiSnips
+0
+D/home/pi/sandbox/dotfiles/vim/UltiSnips
+	tex
+3
+D/home/pi/sandbox/dotfiles/vim/UltiSnips/tex
+	beamer.snippets
+0
+D/home/pi/sandbox/vimlatex-config/vim-latex-quickstart/nvim/ftplugin
+	tex.vim
+0
+D/home/pi/.config/nvim
+	init.vim
+5
+D/home/pi
+	sandbox
+13
+D/home/pi/sandbox
+	vimlatex-config
+1
+D/home/pi/sandbox/vimlatex-config
+	vim-latex-quickstart
+0
+D/home/pi/sandbox/vimlatex-config/vim-latex-quickstart
+	nvim
+0
+D/home/pi/sandbox/vimlatex-config/vim-latex-quickstart/nvim
+	UltiSnips
+0
+D/home/pi/sandbox/vimlatex-config/vim-latex-quickstart/nvim/UltiSnips
+	tex
+0
+D/home/pi/sandbox/vimlatex-config/vim-latex-quickstart/nvim
+	UltiSnips
+0
+D/home/pi/sandbox/vimlatex-config/vim-latex-quickstart
+	nvim
+0
+D/home/pi/sandbox/vimlatex-config
+	vim-latex-quickstart
+0
+D/home/pi/sandbox/vimlatex-config/vim-latex-quickstart
+	nvim
+0
+D/home/pi/sandbox/vimlatex-config/vim-latex-quickstart/nvim
+	UltiSnips
+0
+D/home/pi/sandbox/vimlatex-config/vim-latex-quickstart/nvim/UltiSnips
+	tex
+0
+D/home/pi/sandbox/vimlatex-config/vim-latex-quickstart/nvim
+	UltiSnips
+0
+D/home/pi/sandbox/vimlatex-config/vim-latex-quickstart
+	nvim
+0
+D/home/pi/sandbox/vimlatex-config
+	vim-latex-quickstart
+0
+D/home/pi/sandbox
+	texPractice
+0
+D/home/pi/sandbox/texPractice
+	try2.tex
+20
+D/home/pi/sandbox
+	texPractice
+2
+D/home/pi/sandbox/texPractice
+	try2.tex
+20
+D/home/pi/sandbox
+	pyPractice
+1
+D/home/pi/sandbox/pyPractice
+	aggrprac.py
+0
+D/home/pi/.config/nvim
+	init.vim
+5
+D/home/pi/sandbox
+	HTMLprac
+0
+D/home/pi/sandbox/HTMLprac
+	STAR.jpg
+0
+D/home/pi/.config
+	Atom
+0
+D/home/pi/sandbox
+	HTMLprac
+0
+D/home/pi/.config
+	git
+9
+D/home/pi/.config/git
+	config
+0
+D/home/pi/.config
+	git
+9
+D/home/pi
+	sandbox
+28
+D/home/pi/sandbox
+	gitprac
+2
+D/home/pi/sandbox/gitprac
+	helloworld
+0
+D/home/pi/sandbox/gitprac/helloworld
+	.git
+0
+D/home/pi/sandbox/gitprac
+	helloworld
+0
+D/home/pi/sandbox
+	gitprac
+2
+D/home/pi/sandbox/gitprac
+	helloworld
+0
+D/home/pi/sandbox/gitprac/helloworld
+	hello-world.txt
+2
+D
+
+# Command line history (oldest to newest):
+:edit x
+:ZZ
+:edit token.txt
+:exit4
+:gss
+:edit snippets.snippets
+:mkdir tex
+:gitclone 
+:edit environments.snippets
+:pwd
+:edit try2.tex
+:exity
+:nvim tex.snippets
+:edit tex.snippets
+:edit snipprac.txt
+:cd
+:mkdir ftdetect
+:edit vim.vim
+:mkdir UltiSnips
+:edit snipprac.tex
+:edit zathurarc
+:mkdir regexprac
+:edit tryregex.txt
+:edit regxrules.txt
+:mkdir pyPractice
+:edit aggrprac.py
+:edit 
+:cd /etc/systemd/service
+:q
+:mkdir git
+:mkdir gitprac
+:edit hello-again-world.txt
+:exit
+
+# Search history (oldest to newest):
+/python
+
+# Prompt history (oldest to newest):
+pconfig
+
+# Local filter history (oldest to newest):
+
+# Registers:
+
+# Directory stack (oldest to newest):
+
+# Trash content:
+
+# State:
+f
+i1
+[.0
+[F
+F
+I1
+].0
+]F
+s0

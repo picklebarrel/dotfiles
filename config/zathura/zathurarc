@@ -1,0 +1,6 @@
+# set the color and transparency of zathura's view bar
+# the hex representation is what you need to set color, here light blue
+# the fraction sets the "level" of transparency
+set highlight-color "#88c0d0" 
+set highlight-active-color "#88c0d0"
+set highlight-transparency 0.25

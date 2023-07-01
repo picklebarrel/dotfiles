@@ -1,0 +1,79 @@
+# not explcitly setting priority will cause priortiy to be set to 0, which is what we want
+
+# Recapping the three snippet options: A, i, and b. 
+# The option A refers to automatic expansion of a trigger (e.g., mm) of a snippet without a pressing the trigger key
+# The option i permits expansion of a trigger even if the preceding character is not whitespace. 
+# The option b will permits expansions of trigger provided they're typed on a new line (i.e., they are the first non whitespace character on the line). 
+
+snippet nin "no indent on new paragraphs" b
+\setlength{\parindent}{0pt}
+endsnippet
+
+snippet mm "inline math" 
+\$${1:${VISUAL:}}\$
+endsnippet
+
+snippet cd "cdots" i 
+\cdots
+endsnippet
+
+snippet pi "positive infinity" i
+\infty
+endsnippet
+
+snippet ni "negative infinity" i
+-\infty
+endsnippet
+
+snippet ff "fraction; first tab-stop example" i
+\frac{${1:${VISUAL:}}}{$2}
+endsnippet
+
+snippet sr "square root" i
+\sqrt{${1:${VISUAL:}}}
+endsnippet
+
+snippet eu "e to the whatever power; using eu cause Euler" i
+e^{${1:${VISUAL:}}}
+endsnippet
+
+snippet lm "limit" i 
+\lim_{${1:${VISUAL:}}}
+endsnippet
+
+snippet di "definite integral" i
+\int_{$1}^{$2}
+endsnippet
+
+# commented the following snippet out because using the derivative package
+# snippet dv "leibniz derivative notation" i
+# \frac{\mathrm{d}${1:${VISUAL:}}}{\mathrm{d}$2}
+# endsnippet
+
+# One special use case is \odv{}{x}, i.e., numerator is empty
+snippet odv "ordinary single-var derivative leibniz-style" i
+\odv{$1}{$2}
+endsnippet
+
+
+snippet ddv "higher-order single-var deriv" i
+\odv[$1]{$2}{$3}
+endsnippet
+
+snippet pdv "partial derivative either first order or mixed" i
+\pdv{$1}{$2}
+endsnippet
+
+snippet ppv "higher-ordfer partial derivs" i
+\pdv[$1]{$2}{$3}
+endsnippet
+
+snippet df "differntial" i
+\operatorname{d}\!
+endsnippet
+
+# sets up left and right parens provided previous character is not an alpha
+# notice we had to escape the parens but not the l. The reason is that parens are regex-reserved symbols (so-called capture group)
+snippet "([^a-zA-Z])l\(" "Left/Right parentheses" rA
+`!p snip.rv = match.group(1)`\left( ${1:${VISUAL:}} \right)$0
+endsnippet

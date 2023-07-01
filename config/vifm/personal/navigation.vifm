@@ -1,0 +1,33 @@
+" Convention: prefix shortcuts with "g" (for "go")
+" There are two types of shortcuts:
+" 1. :cd (use to change into a directory)
+" 2. :goto (use to move cursor to a specific file)
+" then we use three letters to give us more 'combinatorial space' or flex
+" after g for go, the second letter is the parent dir, even if not literally
+" then certainly conceptually; finally, the third letter refers to the target
+" file or directory. One more detail about convention here: repeating the 
+" second and third chacters (e.g. gvv) takes you to the parent directory
+" references in the second character
+
+
+" Config directory
+nnoremap gcc :cd ~/.config<CR>
+
+" Vim configuration files
+nnoremap gvv :cd ~/.config/nvim<CR>
+nnoremap gvf :cd ~/.config/nvim/ftplugin<CR>
+nnoremap gvi :goto ~/.config/nvim/init.vim<CR>
+nnoremap gvs :cd ~/.local/state/nvim/swap<CR>
+nnoremap gvu :cd ~/.config/nvim/UltiSnips<CR>
+
+" Home directory
+nnoremap ghh :cd ~<CR>
+nnoremap ghd :cd ~/Downloads<CR>
+
+
+" Documents directory
+nnoremap gdd :cd ~/Documents<CR>
+
+" Sandbox
+nnoremap gss :cd ~/sandbox<CR>
+nnoremap gsv :cd ~/sandbox/vimlatex-config/vim-latex-quickstart
