@@ -13,6 +13,7 @@ DOTFILES="$(pwd)"
 [[ ! -e "${HOME}/.bash_logout" ]] && ln -s ${DOTFILES}/bash_logout ~/.bash_logout || echo '~/.bash_logout exists; skipping and not overwriting.'
 [[ ! -e "${HOME}/.zlogin" ]] && ln -s ${DOTFILES}/zlogin ~/.zlogin || echo '~/.zlogin exists; skipping and not overwriting.'
 [[ ! -e "${HOME}/.zshrc" ]] && ln -s ${DOTFILES}/zshrc ~/.zshrc || echo '~/.zshrc exists; skipping and not overwriting.'
+[[ ! -e "${HOME}/.xinitrc" ]] && ln -s ${DOTFILES}/xinitrc ~/.xinitrc || echo '~/.xinitrc exists; skipping and not overwriting.'
 
 # Link directories
 [[ ! -d "${HOME}/.config" ]] && ln -s ${DOTFILES}/config ~/.config || echo '~/.config exists; skipping and not overwriting.'
