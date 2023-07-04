@@ -122,5 +122,5 @@ export PATH="$HOME/gems/bin:$PATH"
 # Add RVM to PATH for scripting. Make sure this is the last PATH variable change.
 export PATH="$PATH:$HOME/.rvm/bin"
 export EDITOR=nvim
-# Tell GPG to take input from the terminal connected to standard input
+# Tell GPG (gnu privacy guard, crytography app for unix systems(e.g., we use for the password manager. In turn, we use password manager to store the GitHub personal access token. GPG_TTY isan environment variable controls from which terminal (tty) GPG reads or takes user input. The tty on the RHS of the 'assignment' below assigns the result of the tty command to the environment variable on the LHS. Recall, tty is terminal command that returns the name of the terminal currently connected to standard input. 
 export GPG_TTY=$(tty)
